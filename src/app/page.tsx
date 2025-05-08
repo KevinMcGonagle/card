@@ -30,7 +30,6 @@ export default function Home() {
 
       <div className="fixed bottom-0 left-0 p-4 flex justify-between items-end w-full">
         <h1>Kevin Mc Gonagle</h1>
-
         <div className="flex flex-col items-end gap-2">
           <div className="flex gap-2">
             <h2>Software Engineer</h2>
